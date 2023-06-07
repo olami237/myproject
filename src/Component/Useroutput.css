@@ -1,0 +1,16 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+.letters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  line-height: 2rem;
+  color: aqua;
+  font-size: medium;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 500;
+}
